@@ -4,5 +4,6 @@ let app = new Vue({
     product: 'Socks',
     image:
       'https://www.vuemastery.com/images/challenges/vmSocks-green-onWhite.jpg',
+    inventory: 8,
   },
 });
